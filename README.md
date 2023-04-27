@@ -17,3 +17,5 @@ To download the libraries on Linux run the following commands:
 GUI:
 
 ![Screenshot (169)](https://user-images.githubusercontent.com/105296198/234965794-e5f673fc-890d-47d5-b837-ab030eed610b.png)
+
+PS* If you got to this page via a QR Code, this is the program that generated it. 
